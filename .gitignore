@@ -51,3 +51,5 @@ A8/*
 A9/*
 AA17/*
 # End of https://www.gitignore.io/api/macos,jupyternotebooks
+#
+A*/data/
