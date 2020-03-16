@@ -44,12 +44,21 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Datasets
+A*/data/*
+
+
 # My assignments sequence
-A6/*
+
 A7/*
 A8/*
 A9/*
+AA10/*
+AA11/*
+AA12/*
+AA13/*
 AA17/*
+
 # End of https://www.gitignore.io/api/macos,jupyternotebooks
 #
-A*/data/
+
