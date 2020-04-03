@@ -8,3 +8,4 @@
     A8  Kmeans
     A11 Parsing
     A12 TFiDF
+    A19 AWS
