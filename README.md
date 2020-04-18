@@ -9,3 +9,5 @@
     A11 Parsing
     A12 TFiDF
     A19 AWS
+    A20 Project: Cosmetics Recommender System based on ingredients
+     
